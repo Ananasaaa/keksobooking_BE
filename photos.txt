@@ -1,0 +1,1330 @@
+[
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.6801, 139.70685",
+      "price": 1473,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "washer"
+      ],
+      "description": "Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.6801,
+      "y": 139.70685
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.65148, 139.76337",
+      "price": 9510,
+      "type": "house",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Тихий и безопасный район. Подходит для долгосрочной аренды. Отличный вид на природу. Близко к центру города. Современный интерьер. Вблизи магазинов и ресторанов. Доступная цена.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65148,
+      "y": 139.76337
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Квартира рядом с парком",
+      "address": "35.68229, 139.73929",
+      "price": 10711,
+      "type": "bungalow",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "parking",
+        "elevator",
+        "conditioner",
+        "dishwasher",
+        "wifi"
+      ],
+      "description": "Тихий и безопасный район. Доступная цена. Подходит для долгосрочной аренды. Отличный вид на природу. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68229,
+      "y": 139.73929
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Квартира с панорамным видом на город",
+      "address": "35.66645, 139.751",
+      "price": 67563,
+      "type": "house",
+      "rooms": 3,
+      "guests": 10,
+      "checkin": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "elevator",
+        "washer",
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Рядом с остановкой общественного транспорта. Идеально подходит для семейного отдыха. Вблизи магазинов и ресторанов. Тихий и безопасный район. Современный интерьер. Полностью меблировано. Близко к центру города. Подходит для долгосрочной аренды.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66645,
+      "y": 139.751
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.69719, 139.717",
+      "price": 57773,
+      "type": "bungalow",
+      "rooms": 5,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "washer",
+        "parking",
+        "elevator"
+      ],
+      "description": "Подходит для долгосрочной аренды. Близко к центру города. Тихий и безопасный район. Доступная цена. Современный интерьер. Отличный вид на природу. Рядом с остановкой общественного транспорта. Полностью меблировано. Вблизи магазинов и ресторанов. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69719,
+      "y": 139.717
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Квартира с панорамным видом на город",
+      "address": "35.68821, 139.73517",
+      "price": 9297,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 1,
+      "checkin": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Вблизи магазинов и ресторанов. Современный интерьер. Полностью меблировано.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68821,
+      "y": 139.73517
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Уютное жилье в Токио",
+      "address": "35.67229, 139.74299",
+      "price": 87102,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Вблизи магазинов и ресторанов. Отличный вид на природу. Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67229,
+      "y": 139.74299
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Уютное жилье в Токио",
+      "address": "35.67238, 139.73866",
+      "price": 59528,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 10,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "elevator",
+        "dishwasher"
+      ],
+      "description": "Рядом с остановкой общественного транспорта. Современный интерьер.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67238,
+      "y": 139.73866
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.67293, 139.75404",
+      "price": 60947,
+      "type": "house",
+      "rooms": 1,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "parking",
+        "conditioner",
+        "elevator",
+        "dishwasher"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Современный интерьер. Отличный вид на природу. Вблизи магазинов и ресторанов. Полностью меблировано. Близко к центру города. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67293,
+      "y": 139.75404
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Комфортная квартира в центре города",
+      "address": "35.68722, 139.77663",
+      "price": 34464,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 9,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "wifi",
+        "conditioner",
+        "dishwasher",
+        "elevator",
+        "parking"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Доступная цена. Рядом с остановкой общественного транспорта. Тихий и безопасный район. Подходит для долгосрочной аренды. Вблизи магазинов и ресторанов. Близко к центру города. Полностью меблировано. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68722,
+      "y": 139.77663
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.65784, 139.79513",
+      "price": 76638,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 2,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "conditioner",
+        "wifi",
+        "elevator",
+        "dishwasher"
+      ],
+      "description": "Отличный вид на природу. Подходит для долгосрочной аренды.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65784,
+      "y": 139.79513
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.65678, 139.71823",
+      "price": 43690,
+      "type": "house",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "washer",
+        "elevator",
+        "wifi"
+      ],
+      "description": "Современный интерьер. Вблизи магазинов и ресторанов. Тихий и безопасный район. Рядом с остановкой общественного транспорта.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65678,
+      "y": 139.71823
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.67892, 139.74522",
+      "price": 61946,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "conditioner",
+        "parking"
+      ],
+      "description": "Современный интерьер. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67892,
+      "y": 139.74522
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Просторный дом для большой семьи",
+      "address": "35.66662, 139.79121",
+      "price": 88586,
+      "type": "house",
+      "rooms": 4,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Вблизи магазинов и ресторанов. Доступная цена. Подходит для долгосрочной аренды. Полностью меблировано.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66662,
+      "y": 139.79121
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Роскошный дом с видом на океан",
+      "address": "35.65877, 139.76291",
+      "price": 29551,
+      "type": "house",
+      "rooms": 3,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "conditioner"
+      ],
+      "description": "Полностью меблировано. Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65877,
+      "y": 139.76291
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Просторный дом для большой семьи",
+      "address": "35.69317, 139.74043",
+      "price": 4493,
+      "type": "house",
+      "rooms": 5,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "parking",
+        "dishwasher"
+      ],
+      "description": "Полностью меблировано. Тихий и безопасный район. Идеально подходит для семейного отдыха. Подходит для долгосрочной аренды. Современный интерьер. Отличный вид на природу. Рядом с остановкой общественного транспорта. Доступная цена. Вблизи магазинов и ресторанов. Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69317,
+      "y": 139.74043
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Комфортная квартира в центре города",
+      "address": "35.69207, 139.72982",
+      "price": 47053,
+      "type": "house",
+      "rooms": 4,
+      "guests": 9,
+      "checkin": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "wifi",
+        "parking",
+        "dishwasher",
+        "elevator",
+        "washer"
+      ],
+      "description": "Тихий и безопасный район. Рядом с остановкой общественного транспорта. Отличный вид на природу. Полностью меблировано. Подходит для долгосрочной аренды. Близко к центру города. Вблизи магазинов и ресторанов. Доступная цена.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69207,
+      "y": 139.72982
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Роскошный дом с видом на океан",
+      "address": "35.67035, 139.74738",
+      "price": 85960,
+      "type": "house",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Тихий и безопасный район. Идеально подходит для семейного отдыха. Доступная цена. Вблизи магазинов и ресторанов. Близко к центру города. Отличный вид на природу. Рядом с остановкой общественного транспорта.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67035,
+      "y": 139.74738
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Квартира рядом с парком",
+      "address": "35.65024, 139.74234",
+      "price": 52819,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 6,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator",
+        "washer"
+      ],
+      "description": "Тихий и безопасный район. Отличный вид на природу. Рядом с остановкой общественного транспорта.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65024,
+      "y": 139.74234
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Комфортная квартира в центре города",
+      "address": "35.65987, 139.70538",
+      "price": 73600,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 8,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "washer",
+        "conditioner",
+        "parking"
+      ],
+      "description": "Доступная цена. Близко к центру города. Подходит для долгосрочной аренды. Отличный вид на природу. Рядом с остановкой общественного транспорта. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65987,
+      "y": 139.70538
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Квартира-студия с современным ремонтом",
+      "address": "35.67978, 139.71332",
+      "price": 56466,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher"
+      ],
+      "description": "Вблизи магазинов и ресторанов. Близко к центру города. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67978,
+      "y": 139.71332
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.66491, 139.7972",
+      "price": 28249,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 5,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "conditioner",
+        "washer"
+      ],
+      "description": "Отличный вид на природу. Тихий и безопасный район. Современный интерьер. Вблизи магазинов и ресторанов. Идеально подходит для семейного отдыха. Доступная цена.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66491,
+      "y": 139.7972
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.69367, 139.71864",
+      "price": 44629,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 9,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "Полностью меблировано. Вблизи магазинов и ресторанов. Близко к центру города. Тихий и безопасный район. Отличный вид на природу. Доступная цена. Рядом с остановкой общественного транспорта. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69367,
+      "y": 139.71864
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Комфортная квартира в центре города",
+      "address": "35.66622, 139.78855",
+      "price": 76035,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "washer"
+      ],
+      "description": "Современный интерьер. Доступная цена. Подходит для долгосрочной аренды. Близко к центру города. Идеально подходит для семейного отдыха. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66622,
+      "y": 139.78855
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Роскошный дом с видом на океан",
+      "address": "35.68746, 139.79662",
+      "price": 77673,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "elevator",
+        "dishwasher",
+        "parking",
+        "wifi",
+        "conditioner",
+        "washer"
+      ],
+      "description": "Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68746,
+      "y": 139.79662
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Квартира рядом с парком",
+      "address": "35.67844, 139.79821",
+      "price": 14616,
+      "type": "house",
+      "rooms": 2,
+      "guests": 9,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "conditioner",
+        "wifi",
+        "elevator",
+        "dishwasher",
+        "washer",
+        "parking"
+      ],
+      "description": "Близко к центру города. Вблизи магазинов и ресторанов. Полностью меблировано. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67844,
+      "y": 139.79821
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.65363, 139.79753",
+      "price": 74876,
+      "type": "house",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Рядом с остановкой общественного транспорта. Современный интерьер. Доступная цена. Близко к центру города. Отличный вид на природу. Вблизи магазинов и ресторанов. Подходит для долгосрочной аренды.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65363,
+      "y": 139.79753
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.68781, 139.73915",
+      "price": 16431,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator",
+        "washer",
+        "conditioner",
+        "parking",
+        "dishwasher",
+        "wifi"
+      ],
+      "description": "Тихий и безопасный район. Современный интерьер. Подходит для долгосрочной аренды. Близко к центру города. Отличный вид на природу. Вблизи магазинов и ресторанов.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68781,
+      "y": 139.73915
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Уютное жилье в Токио",
+      "address": "35.66192, 139.74781",
+      "price": 25394,
+      "type": "house",
+      "rooms": 5,
+      "guests": 7,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "elevator",
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Современный интерьер. Идеально подходит для семейного отдыха. Подходит для долгосрочной аренды. Близко к центру города. Вблизи магазинов и ресторанов. Полностью меблировано. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66192,
+      "y": 139.74781
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.6792, 139.7408",
+      "price": 72597,
+      "type": "bungalow",
+      "rooms": 5,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "conditioner",
+        "dishwasher",
+        "parking",
+        "elevator",
+        "washer",
+        "wifi"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Доступная цена.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.6792,
+      "y": 139.7408
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Роскошный дом с видом на океан",
+      "address": "35.65133, 139.76716",
+      "price": 43125,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 1,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "wifi",
+        "elevator",
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "Полностью меблировано. Доступная цена. Современный интерьер. Тихий и безопасный район. Идеально подходит для семейного отдыха. Рядом с остановкой общественного транспорта. Близко к центру города. Подходит для долгосрочной аренды. Отличный вид на природу. Вблизи магазинов и ресторанов.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65133,
+      "y": 139.76716
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.69292, 139.75435",
+      "price": 62594,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "wifi",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "Современный интерьер. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69292,
+      "y": 139.75435
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Квартира рядом с парком",
+      "address": "35.69808, 139.79182",
+      "price": 99251,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 5,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "parking",
+        "conditioner",
+        "elevator",
+        "dishwasher"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Рядом с остановкой общественного транспорта. Вблизи магазинов и ресторанов. Отличный вид на природу. Близко к центру города. Полностью меблировано. Современный интерьер. Подходит для долгосрочной аренды. Доступная цена.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69808,
+      "y": 139.79182
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.69456, 139.79058",
+      "price": 41251,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "elevator",
+        "washer"
+      ],
+      "description": "Отличный вид на природу. Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69456,
+      "y": 139.79058
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Квартира рядом с парком",
+      "address": "35.68371, 139.71624",
+      "price": 98064,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 10,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "Подходит для долгосрочной аренды. Близко к центру города. Отличный вид на природу. Рядом с остановкой общественного транспорта. Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68371,
+      "y": 139.71624
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.68672, 139.71995",
+      "price": 1152,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "Близко к центру города. Тихий и безопасный район. Рядом с остановкой общественного транспорта. Вблизи магазинов и ресторанов. Современный интерьер. Доступная цена. Идеально подходит для семейного отдыха. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68672,
+      "y": 139.71995
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Роскошный дом с видом на океан",
+      "address": "35.68673, 139.78786",
+      "price": 15814,
+      "type": "bungalow",
+      "rooms": 3,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "washer",
+        "wifi"
+      ],
+      "description": "Современный интерьер. Тихий и безопасный район. Рядом с остановкой общественного транспорта. Полностью меблировано. Подходит для долгосрочной аренды. Вблизи магазинов и ресторанов. Близко к центру города. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68673,
+      "y": 139.78786
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.66814, 139.7957",
+      "price": 3757,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "Идеально подходит для семейного отдыха. Рядом с остановкой общественного транспорта. Тихий и безопасный район. Современный интерьер. Отличный вид на природу.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66814,
+      "y": 139.7957
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Просторный дом для большой семьи",
+      "address": "35.6725, 139.78488",
+      "price": 8807,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator",
+        "parking",
+        "conditioner",
+        "dishwasher"
+      ],
+      "description": "Современный интерьер.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.6725,
+      "y": 139.78488
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Апартаменты в историческом центре",
+      "address": "35.69975, 139.72325",
+      "price": 2157,
+      "type": "house",
+      "rooms": 1,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "wifi",
+        "washer",
+        "conditioner",
+        "elevator"
+      ],
+      "description": "Идеально подходит для семейного отдыха.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.69975,
+      "y": 139.72325
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Уютное бунгало у моря",
+      "address": "35.6917, 139.76275",
+      "price": 44483,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "parking",
+        "dishwasher",
+        "wifi",
+        "elevator"
+      ],
+      "description": "Отличный вид на природу. Идеально подходит для семейного отдыха. Вблизи магазинов и ресторанов. Полностью меблировано. Доступная цена. Рядом с остановкой общественного транспорта. Близко к центру города. Подходит для долгосрочной аренды. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.6917,
+      "y": 139.76275
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.66158, 139.74298",
+      "price": 17883,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "elevator",
+        "conditioner",
+        "washer"
+      ],
+      "description": "Рядом с остановкой общественного транспорта. Доступная цена. Близко к центру города. Подходит для долгосрочной аренды.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.66158,
+      "y": 139.74298
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Просторный дом для большой семьи",
+      "address": "35.65416, 139.78644",
+      "price": 45658,
+      "type": "house",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "wifi"
+      ],
+      "description": "Вблизи магазинов и ресторанов. Полностью меблировано. Подходит для долгосрочной аренды. Доступная цена. Идеально подходит для семейного отдыха. Рядом с остановкой общественного транспорта. Тихий и безопасный район. Отличный вид на природу. Современный интерьер.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.65416,
+      "y": 139.78644
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Квартира с панорамным видом на город",
+      "address": "35.67268, 139.74286",
+      "price": 3512,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 8,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "parking"
+      ],
+      "description": "Современный интерьер. Близко к центру города.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.67268,
+      "y": 139.74286
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Дом с красивым садом",
+      "address": "35.68788, 139.77077",
+      "price": 59158,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "washer",
+        "conditioner",
+        "parking"
+      ],
+      "description": "Вблизи магазинов и ресторанов. Отличный вид на природу. Полностью меблировано. Идеально подходит для семейного отдыха. Подходит для долгосрочной аренды. Доступная цена. Тихий и безопасный район.",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": 35.68788,
+      "y": 139.77077
+    }
+  }
+]

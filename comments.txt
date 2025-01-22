@@ -1,0 +1,30 @@
+[
+  {
+    "avatar": {},
+    "title": "qwerty erty rty",
+    "address": "35.68950, 139.69170",
+    "type": "house",
+    "price": "5000",
+    "timein": "13:00",
+    "timeout": "13:00",
+    "rooms": "2",
+    "capacity": "1",
+    "features": "parking",
+    "description": "",
+    "images": {}
+  },
+  {
+    "avatar": {},
+    "title": "qwert",
+    "address": "35.68950, 139.69170",
+    "type": "flat",
+    "price": "6000",
+    "timein": "14:00",
+    "timeout": "14:00",
+    "rooms": "3",
+    "capacity": "2",
+    "features": "elevator",
+    "description": "",
+    "images": {}
+  }
+]
