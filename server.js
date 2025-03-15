@@ -15,14 +15,22 @@ const saveMockData = () => {
 
 const server = http.createServer((req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-  console.log(`Запрос: ${req.method} ${req.url}`); 
+  console.log(`Request: ${req.method} ${req.url}`); 
+
+  if (req.method === 'OPTIONS') {
+    res.writeHead(204);
+    res.end();
+    return;
+  }
+
+
   if (req.method === 'GET' && req.url === '/offers') {
     fs.readFile(filePathGet, 'utf-8', (err, data) => {
       if (err) {
         res.writeHead(500, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ error: 'Ошибка чтения файла' }));
+        res.end(JSON.stringify({ error: 'File reading erro' }));
       } else {
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(data);
@@ -37,11 +45,12 @@ const server = http.createServer((req, res) => {
     req.on('end', () => {
       try {
         const newData = JSON.parse(body);
+        console.log('Received data:', newData); 
 
         fs.readFile(filePathPost, 'utf-8', (err, data) => {
           if (err) {
             res.writeHead(500, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ error: 'Ошибка чтения файла' }));
+            res.end(JSON.stringify({ error: 'File reading erro' }));
             return;
           }
 
@@ -51,7 +60,7 @@ const server = http.createServer((req, res) => {
           fs.writeFile(filePathPost, JSON.stringify(updatedData, null, 2), 'utf-8', (writeErr) => {
             if (writeErr) {
               res.writeHead(500, { 'Content-Type': 'application/json' });
-              res.end(JSON.stringify({ error: 'Ошибка записи файла' }));
+              res.end(JSON.stringify({ error: 'File write error' }));
               return;
             }
             
@@ -61,18 +70,19 @@ const server = http.createServer((req, res) => {
         });
       } catch (parseErr) {
         res.writeHead(400, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ error: 'Ошибка обработки данных' }));
+        res.end(JSON.stringify({ error: 'Data processing error' }));
+        console.log('Parse error:', parseErr.message);
       }
     });
   } else {
-    console.log(`Маршрут не найден: ${req.method} ${req.url}`);
+    console.log(`Route not found: ${req.method} ${req.url}`);
     res.writeHead(404, { 'Content-Type': 'application/json' });
-    res.end(JSON.stringify({ error: 'Маршрут не найден' }));
+    res.end(JSON.stringify({ error: 'Route not found' }));
   }
 }); 
 
 server.listen(port, () => {
-  console.log('порт', port);
+  console.log('port', port);
   saveMockData();
 }); 
 

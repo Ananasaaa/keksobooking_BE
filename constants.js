@@ -22,29 +22,29 @@ const PHOTOS = [
 ];
 
 const TITLES = [
-  'Уютное жилье в Токио',
-  'Комфортная квартира в центре города',
-  'Роскошный дом с видом на океан',
-  'Квартира-студия с современным ремонтом',
-  'Просторный дом для большой семьи',
-  'Квартира рядом с парком',
-  'Дом с красивым садом',
-  'Уютное бунгало у моря',
-  'Апартаменты в историческом центре',
-  'Квартира с панорамным видом на город',
+  'Cozy accommodation in Tokyo',
+  'Comfortable apartment in the city center',
+  'Luxurious house with an ocean view',
+  'Studio apartment with modern renovations',
+  'Spacious house for a big family',
+  'Apartment near the park',
+  'House with a beautiful garden',
+  'Cozy bungalow by the sea',
+  'Apartments in the historic center',
+  'Apartment with a panoramic city view',
 ];
 
 const DESCRIPTIONS = [
-  'Идеально подходит для семейного отдыха.',
-  'Вблизи магазинов и ресторанов.',
-  'Полностью меблировано.',
-  'Рядом с остановкой общественного транспорта.',
-  'Отличный вид на природу.',
-  'Современный интерьер.',
-  'Доступная цена.',
-  'Тихий и безопасный район.',
-  'Близко к центру города.',
-  'Подходит для долгосрочной аренды.',
+  'Perfect for a family vacation',
+  'Close to shops and restaurants',
+  'Fully furnished',
+  'Near public transport stops',
+  'Great view of nature',
+  'Modern interior',
+  'Affordable price',
+  'Quiet and safe neighborhood',
+  'Close to the city center',
+  'Suitable for long-term rental'
 ];
 
  module.exports = {
